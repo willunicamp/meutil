@@ -1,0 +1,15 @@
+C:\workspace\MeutilColegio\DAL\bin\Debug\net8.0\DAL.deps.json
+C:\workspace\MeutilColegio\DAL\bin\Debug\net8.0\DAL.dll
+C:\workspace\MeutilColegio\DAL\bin\Debug\net8.0\DAL.pdb
+C:\workspace\MeutilColegio\DAL\bin\Debug\net8.0\Entidades.dll
+C:\workspace\MeutilColegio\DAL\bin\Debug\net8.0\Entidades.pdb
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.csproj.Up2Date
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.dll
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\refint\DAL.dll
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\DAL.pdb
+C:\workspace\MeutilColegio\DAL\obj\Debug\net8.0\ref\DAL.dll

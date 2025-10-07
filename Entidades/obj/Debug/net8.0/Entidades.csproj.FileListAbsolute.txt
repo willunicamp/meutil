@@ -1,0 +1,12 @@
+C:\workspace\MeutilColegio\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\workspace\MeutilColegio\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\workspace\MeutilColegio\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.csproj.AssemblyReference.cache
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\workspace\MeutilColegio\Entidades\obj\Debug\net8.0\ref\Entidades.dll
