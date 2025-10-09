@@ -30,7 +30,7 @@ namespace UI
                 AlunoDAL alunoDAL = new AlunoDAL();
 
                 // 3. Chamando o método para inserir no banco
-                alunoDAL.Inserir(novoAluno);
+                AlunoDAL.Inserir(novoAluno);
 
                 MessageBox.Show("Aluno cadastrado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 LimparCampos();

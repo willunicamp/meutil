@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\MeutilColegio\\DAL\\DAL.csproj": {}
+    "C:\\Users\\will_\\workspace\\net\\meutil\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\MeutilColegio\\DAL\\DAL.csproj": {
+    "C:\\Users\\will_\\workspace\\net\\meutil\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\MeutilColegio\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\will_\\workspace\\net\\meutil\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\workspace\\MeutilColegio\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\will_\\workspace\\net\\meutil\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\will_\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\MeutilColegio\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\will_\\workspace\\net\\meutil\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\workspace\\MeutilColegio\\Entidades\\Entidades.csproj": {
-                "projectPath": "C:\\workspace\\MeutilColegio\\Entidades\\Entidades.csproj"
+              "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\Entidades.csproj"
               }
             }
           }
@@ -46,9 +47,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -75,18 +76,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\workspace\\MeutilColegio\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\MeutilColegio\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\workspace\\MeutilColegio\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\will_\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\MeutilColegio\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\will_\\workspace\\net\\meutil\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -101,6 +102,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -117,9 +119,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -146,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

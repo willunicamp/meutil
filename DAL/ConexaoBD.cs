@@ -2,7 +2,7 @@
 
 namespace DAL
 {
-    public class ConexaoBD
+    public static class ConexaoBD
     {
         // Coloque a sua string de conexão aqui
         private static readonly string connectionString = "";

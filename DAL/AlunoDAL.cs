@@ -8,9 +8,9 @@ namespace DAL
 {
     public class AlunoDAL
     {
-        public void Inserir(Aluno aluno)
+        public static void Inserir(Aluno aluno)
         {
-            MySqlConnection conexao = null;
+            MySqlConnection conexao = ConexaoBD.ObterConexao();
             try
             {
                 conexao = ConexaoBD.ObterConexao();
@@ -33,7 +33,7 @@ namespace DAL
                 // 2. Inserir na tabela 'aluno'
                 string sqlAluno = "INSERT INTO meutil_aluno (Matricula, PessoaID) VALUES (@Matricula, @PessoaID);";
                 MySqlCommand cmdAluno = new MySqlCommand(sqlAluno, conexao);
-                cmdAluno.Parameters.AddWithValue("@Matricula", aluno.Matricula);
+                cmdAluno.Parameters.AddWithValue("@Matricula", aluno.RA);
                 cmdAluno.Parameters.AddWithValue("@PessoaID", pessoaId);
 
                 cmdAluno.ExecuteNonQuery();

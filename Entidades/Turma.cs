@@ -19,6 +19,12 @@ namespace Entidades
         // O C# nos permite iterar sobre essa lista facilmente com um foreach.
         public List<Aluno> Alunos { get; set; }
 
+        public Aluno Aluno {
+            get => default;
+            set {
+            }
+        }
+
         public Turma()
         {
             Alunos = new List<Aluno>();

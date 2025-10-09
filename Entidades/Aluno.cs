@@ -10,20 +10,19 @@ namespace Entidades
     // HERANÇA: Aluno "é uma" Pessoa, herdando todas as suas propriedades e métodos.
     public class Aluno : Pessoa
     {
-        public string Matricula { get; set; }
+        public string RA { get; set; }
 
         // Chama o construtor da classe base (Pessoa)
-        public Aluno(string nome, string cpf, DateTime dataNascimento, string matricula)
-            : base(nome, cpf, dataNascimento)
+        public Aluno(string nome, string cpf, DateTime dataNascimento, string matricula) : base(nome, cpf, dataNascimento)
         {
-            Matricula = matricula;
+            RA = matricula;
         }
 
         // POLIMORFISMO: Sobrescrevendo o método da classe pai para um comportamento específico.
         public override void Apresentar()
         {
             //base.Apresentar(); // Opcional: Chama o método da classe pai
-            Console.WriteLine($"Sou o aluno(a) {Nome}, matrícula {Matricula}.");
+            Console.WriteLine($"Sou o aluno(a) {Nome}, RA {RA}.");
         }
     }
 }
